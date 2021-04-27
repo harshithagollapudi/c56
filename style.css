@@ -1,0 +1,12 @@
+body{
+  text-align:center;
+}
+img{
+  width:500px;
+  boder-style:solid;
+  boder-color:aqua;
+  boder-width:5px;
+}
+h1{
+  font-size:35px;
+}
